@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 import discord
 
 
-TOKEN = 'ODUzNzA0NzQ4NTU3NTMzMjY1.YMZQgQ.KJvP-F8G3SPRIwHSU38ufxF8Yt0'
+TOKEN = 'DISCORD_BOT_TOKEN_HERE'
 
 client = discord.Client()
 
